@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700;900&family=Poppins:wght@400;700&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+    font-family: 'Poppins', sans-serif
+
+}
+.banner
+{
+    position:relative;
+    min-height: 100vh;
+    background: url(banner.jpg);
+    background-size: cover;
+    background-position: right;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+ 
+body {
+    background: #f3f3f3
+    
+
+}
+
+.wrapper{
+  width: 100vw;
+  height: 100vh;
+  background-color: #191c32;
+  color: #fff;
+
+}
+.navbar {
+    display:flex;
+    justify-content: space-between;
+}
+
+.brand span {
+    color: aqua;
+}
+
+.menu{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+.menu li {
+    list-style: none;
+}
+.menu a {
+    color: #fff
+  
+}
+
+.menu .active {
+    color:aqua;
+
+}
+.menu a:hover {
+    background-color: aqua;
+    color: #191c32;
+    transition: easy-in .4s;
+}
+
+.main {
+    margin: 0 auto;
+    width: 80vx;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+
+h1 {
+    font-size: 3em;
+}
+span {
+    color: aqua
+}
+.download-cv {
+    padding: 10pxv 20px;
+    background-color: aqua;
+    border: none;
+    border-radius: 20px;
+    margin: auto;
+    cursor: pointer;
+    box-shadow: 1px,3px 11px -5px rgba(102,231,200,.69);
+}
+
+.about img {
+    width: 100%;
+    grid-column: 1/5;
+}
+
+.about-info {
+    grid-column: 5/10;
+    padding: 3em;
+    }
+
+    .about-info h2 {
+        font-size: 2em;
+        color: #191c32;
+    }
+
+    .divider{
+        height: 4px;
+        width: 60px;
+        background-color:  aqua;
+        margin-top: 10px;
+    }
+.contenedor{
+    width:90%;
+    max width: 803px;
+    margin:auto;
+}
+
+
+/*-----------------------*/
+/*Header*/
+/*-----------------------*/
+
+header{
+    padding: 40px 0;
+}
+
+header.log p{
+    color: #9B9B9B;
+}
+
+header form {
+    width:100%;
+    display: flex;
+    justify-content:center;
+    flex wrap:wrap;
+}
+header .barra-busqueda{
+    width:78%;
+    height:40px;
+    line-height:40px;
+    background: #fff;
+    padding:0 20px;
+    border-radius: 100px;
+    border:none;
+    text-align:center;
+    font-size:16px;
+}
+
+header.categorias{
+    display:flex;
+    justify-content:center;
+    flex wrap wrap;
+}
+
+header.categorias{
+    color:#9b9b9b;
+    margin: 10px 28px;
+    font-size: 18px;
+    font-weight:700; 
+}
+
+header .categorias a.activo{
+    color:#000;
+}
