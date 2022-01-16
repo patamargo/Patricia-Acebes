@@ -1,4 +1,4 @@
-![Foto de cabecera](https://pixabay.com/es/illustrations/anal%c3%adtica-informaci%c3%b3n-innovaci%c3%b3n-3088958/.jpg)
+![Foto de cabecera](C:/Users/Patri/Downloads/analytics-g8c3bc8ae5_1920.jpg)
 
 # **Data Scientist Blockchain and  Developer in general**
 
