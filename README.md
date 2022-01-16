@@ -1,4 +1,4 @@
-![Foto de cabecera](https://www.istockphoto.com/es/foto/cadena-diagonal-un-concepto-de-blockchain-primer-plano-gris-gm935705246-256013054)
+![Foto de cabecera](https://www.istockphoto.com/es/foto/cadena-diagonal-un-concepto-de-blockchain-primer-plano-gris-gm935705246-256013054.jpg)
 
 # **Data Scientist Blockchain and  Developer in general**
 
